@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ##WOW
 
 Now Now
+
+#Contribution
+
+Fork the repo
