@@ -10,7 +10,6 @@ Sample website with plenty of files for demos
 age 42
 ##WOW
 
-Now Now
 
 #Contribution
 
