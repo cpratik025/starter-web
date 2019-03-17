@@ -10,7 +10,12 @@ Sample website with plenty of files for demos
 age 42
 ##WOW
 
+<<<<<<< Updated upstream
 
+=======
+Now Now
+Again now now now
+>>>>>>> Stashed changes
 #Contribution
 
 Fork the repo
