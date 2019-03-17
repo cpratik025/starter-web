@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 age 42
 ##WOW
 
+Protected
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 
