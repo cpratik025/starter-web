@@ -11,7 +11,12 @@ age 42
 ##WOW
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+Now Now
+Again now now now
+>>>>>>> Stashed changes
 =======
 Now Now
 Again now now now
